@@ -1,6 +1,16 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h1 align="left">Hi 👋 I am Sonja</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning frontend development<br>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
