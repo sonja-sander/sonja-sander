@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning frontend development.<br>
+<p align="left">📚 I'm a frontend developer.<br>
 
 ###
 
